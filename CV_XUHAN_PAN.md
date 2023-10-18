@@ -23,11 +23,14 @@
 - Led backend Java development, specializing in frameworks like Spring Boot.
 - Managed version control with Git and integrated advanced AI models, including ChatGPT, into gaming websites.
 - Collaborated on cross-functional projects and received commendations for platform impact.
+- Conducted research, introducing three innovative game algorithms for enhanced user experience.
 
 **Aug 23 – Oct 23**  
 **Dongxing Securities – AI and Data Analysis Internship**, Beijing  
 - Pioneered data collection processes and designed DWB layer tables.
 - Contributed to the functional testing of the "Polaris" feature and refined data for targeted marketing.
+- Devised a mobile phone number mapping system in Hive, optimizing data retrieval processes.
+
 
 ## EXTRACURRICULAR ACTIVITIES & PROJECTS
 
