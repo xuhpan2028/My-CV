@@ -46,9 +46,13 @@
 - Seamlessly integrated TCP/IP with AWS for efficient player data transfer.
 - Designed a 3D game interface in Unity, enhancing game logic with Python.
 
-## LANGUAGE & COMPUTER SKILLS
+## SKILLS
 - **Languages:** Mandarin (native), English (fluent)
-- **Programming Languages:** C++, Java, Python, SQL, HTML, System Verilog.
+- **Programming Languages:** C++, Java, Python, SQL, HTML, System Verilog
+- **Frameworks & Libraries:** PyTorch (in progress), Spring Boot, Hibernate
+- **Tools & Technologies:** Git, Jenkins, AWS DynamoDB, Kettle, Azkaban, Hive
+- **Databases:** Traditional Databases (e.g., Oracle), Hive
+- **Data Processing:** Data Collection, DWB Layer Table Design, Data Mapping
 
 ## ACTIVITIES & INTERESTS
 - **Sports:** Frisbee, Table tennis, Swimming, Running.
