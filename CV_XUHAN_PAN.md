@@ -47,7 +47,7 @@
 - Designed a 3D game interface in Unity, enhancing game logic with Python.
 
 ## SKILLS
-- **Languages:** Mandarin (native), English (fluent)
+- **Languages:** Mandarin (native), English (fluent), Cantonese(fluent)
 - **Programming Languages:** C++, Java, Python, SQL, HTML, System Verilog
 - **Frameworks & Libraries:** PyTorch (in progress), Spring Boot, Hibernate
 - **Tools & Technologies:** Git, Jenkins, AWS DynamoDB, Kettle, Azkaban, Hive
